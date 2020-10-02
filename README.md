@@ -1,2 +1,2 @@
-# projects-C
+# Interesting projects in C
 C 
